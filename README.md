@@ -1,8 +1,8 @@
-## Mobile Application Chat
-### Final Project
+# Mobile Application Chat
+## Final Project
 ### Link : https://youtu.be/ofcda1XO4M4
 
-- หน้าหลักในการเลือกคู่สนทนา
+### - หน้าหลักในการเลือกคู่สนทนา
 [![Screenshot-1616900051.png](https://i.postimg.cc/wjPXnKvL/Screenshot-1616900051.png)](https://postimg.cc/ts3nVMF4)
 
 Installation
