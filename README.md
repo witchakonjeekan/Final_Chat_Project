@@ -2,8 +2,15 @@
 ## Final Project
 ### Link : https://youtu.be/ofcda1XO4M4
 
+### ขั้นตอนการใช้งาน
+##  1. ทำการ Register ก่อนเข้าใช้งาน 
+##  2. ทำการ Login เข้าใช้งาน
+   [![lo.png](https://i.postimg.cc/5tDMHtty/lo.png)](https://postimg.cc/sBPLqs7C)
+##  3. ทำการค้นหาชื่อคู่สนทนา
+##  4. การสนทนาระหว่าง 2 User
+
 ### - หน้าหลักในการเลือกคู่สนทนา
-[![Screenshot-1616900051.png](https://i.postimg.cc/wjPXnKvL/Screenshot-1616900051.png)](https://postimg.cc/ts3nVMF4)
+
 
 Installation
 
