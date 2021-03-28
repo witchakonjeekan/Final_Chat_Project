@@ -4,6 +4,7 @@
 
 ### ขั้นตอนการใช้งาน
 ##  1. ทำการ Register ก่อนเข้าใช้งาน 
+   [![Screenshot-1616900708.png](https://i.postimg.cc/4yQCFbQH/Screenshot-1616900708.png)](https://postimg.cc/zHvPyhMq)
 ##  2. ทำการ Login เข้าใช้งาน
    [![lo.png](https://i.postimg.cc/5tDMHtty/lo.png)](https://postimg.cc/sBPLqs7C)
 ##  3. ทำการค้นหาชื่อคู่สนทนา
