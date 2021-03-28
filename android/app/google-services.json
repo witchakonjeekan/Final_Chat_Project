@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495027632890",
+    "project_id": "final-chat-mobile",
+    "storage_bucket": "final-chat-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495027632890:android:217a6958bbc0877700a743",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495027632890-vtp38hed1m5d89k25p3uidbs20si88r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJr6JDJbCuNhH4Lvw3WjnhTvlqmG5we8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495027632890-vtp38hed1m5d89k25p3uidbs20si88r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
