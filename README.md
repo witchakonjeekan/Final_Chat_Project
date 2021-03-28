@@ -12,7 +12,7 @@
 ###  3. ทำการค้นหาชื่อคู่สนทนา
    [![Screenshot-1616900779.png](https://i.postimg.cc/kXw3Qs5k/Screenshot-1616900779.png)](https://postimg.cc/crKbZQwm)
    
-###  4. การสนทนาระหว่าง 2 User
+###  4. การสนทนาระหว่าง 2 User (แสดงชื่อของคู่สนทนามุมบนซ้าย)
    [![Screenshot-1616900788.png](https://i.postimg.cc/0ygmCYH0/Screenshot-1616900788.png)](https://postimg.cc/0bfbkwvz)
 #
 #
