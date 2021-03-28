@@ -25,10 +25,16 @@
       
 ## 3. แสดงประวัติการสนทนาระหว่าง 2 User
    [![2.png](https://i.postimg.cc/d05LgrnX/2.png)](https://postimg.cc/VSbfCSxB)
-      
-Installation
 
+
+
+### ขั้นตอนการทำงาน Code
+### 1. Downlord File ใน Gibhub
+### 2. แตกไฟล์
+### 3. ทำการ Installation Package ใน Terminal 
 ```
 flutter pub get
 ```
-
+### 4. ทำการเชื่อมต่อ Firebase Link : https://youtu.be/Wa0rdbb53I8
+### 5. ทำการ Run ในหน้า main.dart โดยใช้ Emulator Mobile
+## --- Success ---
