@@ -1,7 +1,7 @@
 # Mobile Application Chat
 # Final Project
 ## Link : https://youtu.be/ofcda1XO4M4
-
+#
 ## ขั้นตอนการใช้งาน
 ###  1. ทำการ Register ก่อนเข้าใช้งาน 
    [![Screenshot-1616900708.png](https://i.postimg.cc/4yQCFbQH/Screenshot-1616900708.png)](https://postimg.cc/zHvPyhMq)
@@ -37,3 +37,4 @@ flutter pub get
 ### 4. ทำการเชื่อมต่อ Firebase Link : https://youtu.be/Wa0rdbb53I8
 ### 5. ทำการ Run ในหน้า main.dart โดยใช้ Emulator Mobile
 ## --- Success ---
+## นายวิชฌากร จีกัน รหัสนิสิต 61020762 
