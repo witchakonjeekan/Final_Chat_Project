@@ -5,14 +5,27 @@
 ### ขั้นตอนการใช้งาน
 ##  1. ทำการ Register ก่อนเข้าใช้งาน 
    [![Screenshot-1616900708.png](https://i.postimg.cc/4yQCFbQH/Screenshot-1616900708.png)](https://postimg.cc/zHvPyhMq)
+   
 ##  2. ทำการ Login เข้าใช้งาน
    [![lo.png](https://i.postimg.cc/5tDMHtty/lo.png)](https://postimg.cc/sBPLqs7C)
+   
 ##  3. ทำการค้นหาชื่อคู่สนทนา
+   [![Screenshot-1616900779.png](https://i.postimg.cc/kXw3Qs5k/Screenshot-1616900779.png)](https://postimg.cc/crKbZQwm)
+   
 ##  4. การสนทนาระหว่าง 2 User
+   [![Screenshot-1616900788.png](https://i.postimg.cc/0ygmCYH0/Screenshot-1616900788.png)](https://postimg.cc/0bfbkwvz)
 
-### - หน้าหลักในการเลือกคู่สนทนา
 
-
+### Firebase
+## 1. แสดง User ที่ถูกเก็บไว้ใน Database
+      [![user.png](https://i.postimg.cc/3Rb00mvp/user.png)](https://postimg.cc/zbKG9LpX)
+      
+## 2. แสดงจำนวนห้องที่ถูกสร้าง ChatRoom
+      [![Chatroom.png](https://i.postimg.cc/jqmJs6KY/Chatroom.png)](https://postimg.cc/7b1L92fK)
+      
+## 3. แสดงประวัติการสนทนาระหว่าง 2 User
+      [![2.png](https://i.postimg.cc/d05LgrnX/2.png)](https://postimg.cc/VSbfCSxB)
+      
 Installation
 
 ```
